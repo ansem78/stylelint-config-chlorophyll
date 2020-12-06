@@ -35,7 +35,7 @@ module.exports = {
     'max-line-length': null,
     'media-feature-name-no-vendor-prefix': true,
     'no-descending-specificity': null,
-    'number-leading-zero': 'never',
+    'number-leading-zero': null,
     'order/properties-order': [
       'list-style',
       'list-style-position',
