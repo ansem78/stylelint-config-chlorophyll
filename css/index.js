@@ -359,7 +359,7 @@ module.exports = {
     'unicode-bom': 'never',
     'unit-case': 'lower',
     'unit-no-unknown': true,
-    'value-keyword-case': ['lower', {ignoreProperties: ['font', 'font-family']}],
+    'value-keyword-case': ['lower', {ignoreProperties: ['/font(-family)?/']}],
     'value-list-comma-newline-after': 'never-multi-line',
     'value-list-comma-newline-before': 'never-multi-line',
     'value-list-comma-space-after': 'always',

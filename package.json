@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-chlorophyll",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Default stylelint config used by Chlorophyll.",
   "main": "css/index.js",
   "scripts": {

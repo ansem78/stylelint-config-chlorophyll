@@ -63,6 +63,6 @@ module.exports = {
     'scss/no-dollar-variables': null,
     'scss/no-duplicate-dollar-variables': [null, {ignoreInside: ['at-rule']}],
     'scss/no-duplicate-mixins': true,
-    'scss/no-global-function-names': null
+    'scss/no-global-function-names': true
   }
 };
