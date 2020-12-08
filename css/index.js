@@ -32,7 +32,7 @@ module.exports = {
     'color-hex-length': 'short',
     'color-named': 'never',
     'color-no-hex': null,
-    'comment-empty-line-before': 'always',
+    'comment-empty-line-before': null,
     'comment-no-empty': true,
     'comment-whitespace-inside': 'always',
     'custom-property-empty-line-before': 'never',
