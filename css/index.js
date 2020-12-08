@@ -138,6 +138,8 @@ module.exports = {
       'text-emphasis-position',
       '-webkit-text-decoration',
       'text-decoration',
+      '-webkit-text-decoration-skip-ink',
+      'text-decoration-skip-ink',
       'text-transform',
       'text-indent',
       'text-justify',
