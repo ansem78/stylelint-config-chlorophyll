@@ -11,7 +11,7 @@ module.exports = {
   rules: {
     'at-rule-no-unknown': null, // This Stylelint standard rule MUST be disabled before scss/at-rule-no-unknown.
     'scss/at-each-key-value-single-line': null,
-    'scss/at-else-closing-brace-newline-after': true,
+    'scss/at-else-closing-brace-newline-after': 'always',
     'scss/at-else-closing-brace-space-after': null,
     'scss/at-else-empty-line-before': 'never',
     'scss/at-else-if-parentheses-space-before': 'always',
